@@ -24,7 +24,6 @@ print("{:.2f}".format(d))
   ```
 ## OUTPUT
 
-![Screenshot 2024-03-09 220010](https://github.com/Sharonsteffani2005/DISTANCE-BETWEEN-TWO-POINTS/assets/144979934/f29a0fc0-a4be-4377-b4d9-9d265aa469c6)
-
+![alt text](image-1.png)
 
 ### RESULT: Thus the program has been executed successfully
